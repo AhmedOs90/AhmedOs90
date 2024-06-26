@@ -20,7 +20,7 @@ And behold, my offerings:
 - **Eternal Support Network:** Dedicated to providing ongoing, free-of-charge support for the application, ensuring continual performance optimization and enhancements.
 
 <div align="center">
-  <a href="https://linkedin.com/in/taylor-woodcock/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/ahmed-osama-a38329144/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.freelancer.com/u/asph"><img src="https://img.shields.io/badge/freelancer-FF66B6?style=for-the-badge&logo=freelancer&color=ADD8E6" alt="FreeLancer" /></a>
   <a href="https://www.upwork.com/freelancers/~01ff97dedd17caff2c"><img src="https://img.shields.io/badge/upwork-FF66B6?style=for-the-badge&logo=upwork&color=008000" alt="Upwork" /></a>
 </div>
